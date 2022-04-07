@@ -1,0 +1,52 @@
+id: PB8AE11B3
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA10431
+  instance_id: http://purl.bdrc.io/resource/IE1KG2778
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཚད་མ་རིགས་གཞུང་རྒྱ་མཚོ།
+  alt_title:
+    en-x-mixed:
+    - Tshad ma rigs gzhung rgya mtsho /by Chos-grags-rgya-mtsho, the Seventh Rgyal-dbang
+      Karma-pa ; edited by Topga Tulku.
+  author: http://purl.bdrc.io/resource/P821
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    367d053ef4ee4e53a6c72eb619c0ae10:
+      title: ༄༅།་།ཚད་མ་ལེགས་པར་བཤད་པ་ཐམས་ཅད་ཀྱི་ཆུ་བོ་ཡོངས་སུ་འདུ་བ་
+      volume_number: 4
+      base_file: UT1KG2778_004_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5704E758CF324207
+      image_group: null
+      quality: null
+    dc545842e2cd426aac2cd8341e4583e5:
+      title: ༄༅།་།ཚད་མ་ལེགས་པར་བཤད་པ་ཐམས་ཅད་ཀྱི་ཆུ་བོ་ཡོངས་སུ་འདུ་བ་
+      volume_number: 1
+      base_file: UT1KG2778_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL97E991C76145C1DC
+      image_group: null
+      quality: null
+    2045bea8dc2e4c14982627ee7c030015:
+      title: ༄༅།་།ཚད་མ་ལེགས་པར་བཤད་པ་ཐམས་ཅད་ཀྱི་ཆུ་བོ་ཡོངས་སུ་འདུ་བ་
+      volume_number: 2
+      base_file: UT1KG2778_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC5DDC36B0701CF72
+      image_group: null
+      quality: null
+    dff82dc095e94a32a52f84e2940dc29d:
+      title: ༄༅།་།ཚད་མ་ལེགས་པར་བཤད་པ་ཐམས་ཅད་ཀྱི་ཆུ་བོ་ཡོངས་སུ་འདུ་བ་
+      volume_number: 3
+      base_file: UT1KG2778_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5F9EC393136CC613
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG2778
+  - http://purl.bdrc.io/resource/W1KG2778
+created_at: '2021-12-22T10:37:48.519074'
+last_modified_at: '2021-12-22T10:37:48.519081'
